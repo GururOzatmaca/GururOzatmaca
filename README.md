@@ -37,8 +37,8 @@
 
 ### Projects
 
-| Project | Description |
-|---------|-------------|
-| [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — CLI + Claude Code plugin |
+| | Project | Description |
+|---|---------|-------------|
+| ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — CLI + Claude Code plugin |
 
 </div>
