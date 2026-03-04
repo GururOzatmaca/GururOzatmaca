@@ -6,10 +6,10 @@
 
 ### About
 
-- Full-stack developer from Izmir, Turkey
-- B.Sc. in Software Engineering from Yasar University (3.70 GPA)
-- I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serverless
-- gururozatmacaa@gmail.com
+- :earth_africa: Full-stack developer from Izmir, Turkey
+- :mortar_board: B.Sc. in Software Engineering from Yasar University (3.70 GPA)
+- :rocket: I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serverless
+- :mailbox: gururozatmacaa@gmail.com
 
 ---
 
@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
