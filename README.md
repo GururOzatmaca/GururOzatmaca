@@ -40,6 +40,6 @@
 
 | | Project | Description |
 |---|---------|-------------|
-| ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — CLI + Claude Code plugin |
+| ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — Claude Code plugin + CLI |
 
 </div>
