@@ -2,11 +2,17 @@
 
 # Gurur Kisla Ozatmaca
 
-Full-stack developer from Izmir, Turkey. B.Sc. in Software Engineering from Yasar University (3.70 GPA).
+</div>
 
-I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serverless.
+### About
+
+- Full-stack developer from Izmir, Turkey
+- B.Sc. in Software Engineering from Yasar University (3.70 GPA)
+- I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serverless
 
 ---
+
+<div align="center">
 
 ### Connect
 
@@ -16,8 +22,6 @@ I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serve
 ---
 
 ### What I work with
-
-&nbsp;
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,12 +33,12 @@ I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serve
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-&nbsp;
-
 ---
 
 ### Projects
 
-**[md2pdf](https://github.com/GururOzatmaca/md2pdf)** — Markdown to styled PDF converter, CLI + Claude Code plugin
+| Project | Description |
+|---------|-------------|
+| [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — CLI + Claude Code plugin |
 
 </div>
