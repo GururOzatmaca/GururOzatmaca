@@ -9,6 +9,7 @@
 - Full-stack developer from Izmir, Turkey
 - B.Sc. in Software Engineering from Yasar University (3.70 GPA)
 - I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serverless
+- gururozatmacaa@gmail.com
 
 ---
 
