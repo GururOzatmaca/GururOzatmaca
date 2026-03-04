@@ -1,3 +1,5 @@
+<div align="center">
+
 # Gurur Kisla Ozatmaca
 
 Full-stack developer from Izmir, Turkey. B.Sc. in Software Engineering from Yasar University (3.70 GPA).
@@ -33,6 +35,6 @@ I build web apps with TypeScript, Python, React, FastAPI, Node.js, and AWS serve
 
 ### Projects
 
-| | Project | Description |
-|---|---------|-------------|
-| ![](https://img.shields.io/badge/-PDF-red?style=flat) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — CLI + Claude Code plugin |
+**[md2pdf](https://github.com/GururOzatmaca/md2pdf)** — Markdown to styled PDF converter, CLI + Claude Code plugin
+
+</div>
