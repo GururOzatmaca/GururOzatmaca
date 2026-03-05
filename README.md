@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gurur Kisla Ozatmaca
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f0a,100:1a4d2e&height=200&section=header&text=Gurur%20Kisla%20Ozatmaca&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -42,5 +42,7 @@
 | | Project | Description |
 |---|---------|-------------|
 | ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — Claude Code plugin + CLI |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f0a,100:1a4d2e&height=100&section=footer" width="100%"/>
 
 </div>
