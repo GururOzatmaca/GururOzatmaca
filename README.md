@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142e14,100:1a4d2e&height=250&section=header&text=Gurur%20Kisla%20Ozatmaca&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142e14,100:1a4d2e&height=220&section=header&text=Gurur%20Kisla%20Ozatmaca&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
