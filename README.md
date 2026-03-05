@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142e14,100:1a4d2e&height=190&section=header&text=Gurur%20Kisla%20Ozatmaca&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5A27,100:4A7C59&height=210&section=header&text=Gurur%20Kisla%20Ozatmaca&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -43,6 +43,6 @@
 |---|---------|-------------|
 | ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — Claude Code plugin + CLI |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142e14,100:1a4d2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5A27,100:4A7C59&height=100&section=footer" width="100%"/>
 
 </div>
