@@ -40,9 +40,9 @@
 ### Projects
 
 | | Project | Description |
-|---|---------|-------------|
+|:---:|---------|-------------|
 | ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — Claude Code plugin + CLI |
-| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | [ChessDesk](https://github.com/GururOzatmaca/chessdesk) | Play chess on lichess.org from a VS Code panel — extension |
+| <img src="https://raw.githubusercontent.com/GururOzatmaca/chessdesk/master/media/icon.png" width="28"/> | [ChessDesk](https://github.com/GururOzatmaca/chessdesk) | Play chess on lichess.org from a VS Code panel — extension |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A5624,100:487A56&height=100&section=footer" width="100%"/>
 
