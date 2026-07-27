@@ -41,6 +41,7 @@
 
 | | Project | Description |
 |:---:|---------|-------------|
+| <img src="https://raw.githubusercontent.com/GururOzatmaca/plaincv/master/media/icon.svg" width="28"/> | [PlainCV](https://github.com/GururOzatmaca/plaincv) | Free, no-account CV builder — edit on the page, export an ATS-friendly PDF |
 | ![PDF](https://img.shields.io/badge/-PDF-E34F26?style=flat&logo=adobeacrobatreader&logoColor=white) | [md2pdf](https://github.com/GururOzatmaca/md2pdf) | Markdown to styled PDF converter — Claude Code plugin + CLI |
 | <img src="https://raw.githubusercontent.com/GururOzatmaca/chessdesk/master/media/icon.png" width="28"/> | [ChessDesk](https://github.com/GururOzatmaca/chessdesk) | Play chess on lichess.org from a VS Code panel — extension |
 
